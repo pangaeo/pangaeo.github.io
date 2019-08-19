@@ -1823,7 +1823,7 @@ ul.icons {
   background-size: cover;
   border-top: 0;
   display: -ms-flexbox;
-  height: 35rem !important;
+  height: 50rem !important;
   min-height: 35rem;
   overflow: hidden;
   position: relative;
@@ -2016,12 +2016,12 @@ ul.icons {
     width: 100%;
     z-index: 1; }
   #banner:after {
-    background: linear-gradient(135deg, #141414 0%, #252525 74%);
+    background: linear-gradient(135deg, #141414 25%, #252525 74%);
     content: ' ';
     display: block;
     height: 100%;
     left: 0;
-    opacity: 0.5;
+    opacity: 0;
     position: absolute;
     top: 0;
     webkit-linear-gradientidth: 100%;
