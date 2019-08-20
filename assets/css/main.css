@@ -2651,12 +2651,12 @@ body {
     #heading .testimonials .content .credit strong {
       color: #41ab5d; }
   #heading:before {
-    background: linear-gradient(135deg, #41ab5d 0%, #111111 74%);
+    background: linear-gradient(135deg, #000000 0.25%, #111111 74%);
     content: ' ';
     display: block;
     height: 100%;
     left: 0;
-    opacity: 0.6;
+    opacity: 0.3;
     position: absolute;
     top: 0;
     width: 100%;
